@@ -1,0 +1,18 @@
+{
+  "name": "resumen-anual",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/node": "^8.2.5",
+    "animate.css": "^4.1.1",
+    "animejs": "^3.2.2",
+    "astro": "^4.7.1"
+  }
+}
